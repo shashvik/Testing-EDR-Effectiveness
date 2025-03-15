@@ -1,4 +1,7 @@
 # Testing-EDR-Effectiveness
+
+check out the medium blog here: https://medium.com/@shashvik/hunting-the-hunters-testing-edr-effectiveness-349ce39990c4
+
 This Repository describes the methods with which you can test out your EDRs efficiency.
 
 Describes the overall test case design, implementation, and 
