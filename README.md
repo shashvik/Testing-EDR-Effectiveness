@@ -1,4 +1,4 @@
-# Red_Team-EDR_Efficiency
+# Testing-EDR-Effectiveness
 This Repository describes the methods with which you can test out your EDRs efficiency.
 
 Describes the overall test case design, implementation, and 
